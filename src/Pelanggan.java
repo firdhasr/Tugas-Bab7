@@ -10,7 +10,7 @@ public abstract class Pelanggan {
 
     public void tampil() {
         System.out.println("====================================");
-        System.out.println("=============SALON SABIL=============");
+        System.out.println("  =====SALON KECANTIKAN SABIL=====");
         System.out.println("====================================");
         System.out.println("Nama        : " + nama);
     }
